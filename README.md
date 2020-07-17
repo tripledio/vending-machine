@@ -6,6 +6,12 @@ Project skeleton for the vending machine using
 * JUnit 5
 * Maven
 
+This project does not include IDE or operating system specific files in `.gitignore`,
+but assumes they are ignored via a [global Git ignore file](https://medium.com/surabayadev/configure-global-gitignore-66a4e665c075).
+
+If you want to practice [remote mob programming](https://www.remotemobprogramming.org/),
+we recommend using [mob.sh](https://mob.sh/) for a Git handover.
+
 Kata Description
 ================
 
